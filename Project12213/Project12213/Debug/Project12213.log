@@ -1,0 +1,108 @@
+﻿  game.cpp
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1041): warning C4101: 'y': unreferenced local variable
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1040): warning C4101: 'x': unreferenced local variable
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1178): warning C4101: 'y': unreferenced local variable
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1177): warning C4101: 'x': unreferenced local variable
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1314): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1361): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1425): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1433): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1439): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1445): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1451): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1457): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1467): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1479): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1492): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1513): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1517): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1521): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1525): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1529): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1533): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1537): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1541): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1545): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1637): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1643): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1649): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1659): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1663): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1667): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1920): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1926): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1929): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1932): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1935): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1938): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1941): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1944): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1947): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1950): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1953): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1956): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1959): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1962): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1965): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1968): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1971): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1974): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2035): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2063): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2075): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2087): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2152): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2157): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2162): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2318): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2324): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2327): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2330): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2333): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2336): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2339): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2342): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2345): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2348): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2351): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2354): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2357): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2360): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2363): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2366): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2369): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2372): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2433): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2460): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2469): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2499): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2504): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2518): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2546): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2560): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2605): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2611): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2638): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2643): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2690): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2696): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2706): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2716): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2726): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2736): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2746): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2756): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2766): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2785): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2790): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2796): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2802): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2808): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2814): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2820): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2826): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(2832): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1308): warning C4172: returning address of local variable or temporary: coords
+c:\users\covie\source\repos\project12213\project12213\game.cpp(1171): warning C4172: returning address of local variable or temporary: coords
+  Project12213.vcxproj -> C:\Users\covie\source\repos\Project12213\Debug\Project12213.exe
